@@ -25,7 +25,7 @@ namespace ConsoleApp_Grammar // 1、命名空间声明
         static void Main(string[] args) // 4、一个Main方法
         {
             /* 我的第一个 C# 程序 */
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!\n");
             Console.ReadLine();
         }
     }
